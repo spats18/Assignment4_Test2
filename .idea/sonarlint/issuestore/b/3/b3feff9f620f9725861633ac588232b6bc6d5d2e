@@ -1,0 +1,9 @@
+
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(»ùÄîûÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ
+F
+java:S1481"+Remove this unused "weight" local variable.(ŠÂšıÿÿÿÿ
+@
+java:S1481"+Remove this unused "length" local variable.(êò¶
